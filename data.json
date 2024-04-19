@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 9",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy s12",
+    "description": "Never ever compare the product with real time entities",
+    "price": 4950,
+    "discountPercentage": 47.90,
+    "rating": 5.68,
+    "stock": 29,
+    "brand": "SAMSUNG"
+  },
+  {
+    "id": 3,
+    "title": "Intex i97",
+    "description": "Intex is real world experience with display",
+    "price": 569,
+    "discountPercentage": 12.96,
+    "rating": 8.6,
+    "stock": 94,
+    "brand": "Intex"
+  },
+  {
+    "id": 4,
+    "title": "moto m75t",
+    "description": "An Moto phone that speification cant match with other ",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple"
+  },
+  {
+    "id": 5,
+    "title": "LYF g48",
+    "description": "An LYF mobile which is nothing like real",
+    "price": 858,
+    "discountPercentage": 14.96,
+    "rating": 4.65,
+    "stock": 45,
+    "brand": "LYF"
+}
+  ]
+
